@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - food
+  - knife
+  - stove
+  - plate
+  - bin
+  - Player1
+  - Player2
+  - sold
+  - audio
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - food
+  - Water
+  - UI
+  - shelf
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
